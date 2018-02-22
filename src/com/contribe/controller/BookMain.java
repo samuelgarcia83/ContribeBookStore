@@ -61,7 +61,7 @@ public class BookMain {
 					System.out.println("=====================================");
 					System.out.println("Book Title - " + foundBook.getTitle());
 					System.out.println("Book Author - " + foundBook.getAuthor());
-					System.out.println("Book Price - " + foundBook.getPrice());
+					System.out.println("Book Price - " + foundBook.getPrice()+ " Kr");//swedish currency (kr)
 					System.out.println("=====================================");
 				}
 				input = true;
