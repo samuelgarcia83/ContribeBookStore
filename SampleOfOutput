@@ -1,0 +1,153 @@
+Getting all the Books from the system...
+All the books downloaded from the url...
+Mastering едц;Average Swede;762.00;15
+How To Spend Money;Rich Bloke;1,000,000.00;1
+Generic Title;First Author;185.50;5
+Generic Title;Second Author;1,748.00;3
+Random Sales;Cunning Bastard;999.00;20
+Random Sales;Cunning Bastard;499.50;3
+Desired;Rich Bloke;564.50;0
+
+
+Please choose from the options bellow...
+----------------------------------------
+Select (s) to search for a book.
+Select (a) to add a book.
+Select (b) to buy a book.
+Select (q) to quit the application.
+s
+Please type the search String
+Type "All" if you want to list all the Books!
+all
+===Book(s) Found in the Store===
+=====================================
+Book Title - Mastering едц
+Book Author - Average Swede
+Book Price - 76200
+=====================================
+=====================================
+Book Title - How To Spend Money
+Book Author - Rich Bloke
+Book Price - 100000000
+=====================================
+=====================================
+Book Title - Generic Title
+Book Author - First Author
+Book Price - 18550
+=====================================
+=====================================
+Book Title - Generic Title
+Book Author - Second Author
+Book Price - 174800
+=====================================
+=====================================
+Book Title - Random Sales
+Book Author - Cunning Bastard
+Book Price - 99900
+=====================================
+=====================================
+Book Title - Random Sales
+Book Author - Cunning Bastard
+Book Price - 49950
+=====================================
+=====================================
+Book Title - Desired
+Book Author - Rich Bloke
+Book Price - 56450
+=====================================
+Please choose from the options bellow...
+----------------------------------------
+Select (s) to search for a book.
+Select (a) to add a book.
+Select (b) to buy a book.
+Select (q) to quit the application.
+a
+Please enter the title of the book
+sam's Book
+Please enter the author of the book
+Samuel Garcia
+Please enter the price of the book
+46521
+Please enter the quantity of copies
+20
+Please choose from the options bellow...
+----------------------------------------
+Select (s) to search for a book.
+Select (a) to add a book.
+Select (b) to buy a book.
+Select (q) to quit the application.
+Choice is not available... Try again...
+
+
+Please choose from the options bellow...
+----------------------------------------
+Select (s) to search for a book.
+Select (a) to add a book.
+Select (b) to buy a book.
+Select (q) to quit the application.
+s
+Please type the search String
+Type "All" if you want to list all the Books!
+all
+===Book(s) Found in the Store===
+=====================================
+Book Title - Mastering едц
+Book Author - Average Swede
+Book Price - 76200
+=====================================
+=====================================
+Book Title - How To Spend Money
+Book Author - Rich Bloke
+Book Price - 100000000
+=====================================
+=====================================
+Book Title - Generic Title
+Book Author - First Author
+Book Price - 18550
+=====================================
+=====================================
+Book Title - Generic Title
+Book Author - Second Author
+Book Price - 174800
+=====================================
+=====================================
+Book Title - Random Sales
+Book Author - Cunning Bastard
+Book Price - 99900
+=====================================
+=====================================
+Book Title - Random Sales
+Book Author - Cunning Bastard
+Book Price - 49950
+=====================================
+=====================================
+Book Title - Desired
+Book Author - Rich Bloke
+Book Price - 56450
+=====================================
+=====================================
+Book Title - sam's Book
+Book Author - Samuel Garcia
+Book Price - 46521
+=====================================
+Please choose from the options bellow...
+----------------------------------------
+Select (s) to search for a book.
+Select (a) to add a book.
+Select (b) to buy a book.
+Select (q) to quit the application.
+b
+How many books are you buying?
+1
+Please enter the title of the book you wish to buy
+sam's book
+test
+--------------------------------------------------
+The book title - sam's book was successfully Bought.
+--------------------------------------------------
+Please choose from the options bellow...
+----------------------------------------
+Select (s) to search for a book.
+Select (a) to add a book.
+Select (b) to buy a book.
+Select (q) to quit the application.
